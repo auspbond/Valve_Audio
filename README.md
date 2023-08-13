@@ -25,7 +25,7 @@ For others, it's the output impedences and harmonic distortion of tube amps.
 They relax the bass and smooth the treble, making for a very pleasing sound and forward midrange.
 Of course, this is all subjective, and such equipment measures terribly against solid state counterparts.
 But no one cares when the music sounds great and you want to enjoy it. Studio mastering is for another rig.
-They look really cool too. I find tube driven systems more fun and worthwhile to setup in comparison to solid state counterparts. <br>
+Tube amps look really cool too. I find tube driven systems more fun and worthwhile to setup in comparison to solid state counterparts. <br>
 
 There's a lot of confusion about these stereo systems in general, so I had to create a database that
-objectifies the hobby. The database is the basis of an audio storefront, and it's educational. 
+objectifies the hobby. The database is the basis of an audio storefront and it's educational. 
