@@ -1,6 +1,6 @@
-# Vacuum Tube Stereo Audio Systems
-
 <div align="center">
+
+# Vacuum Tube Stereo Audio Systems
 
 <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tube_amplifier_%28time_exposure%29.jpg/800px-Tube_amplifier_%28time_exposure%29.jpg"/><br>
 <small style="font-size: 10px;">[Photograph](https://commons.wikimedia.org/wiki/File:Tube_amplifier_(time_exposure).jpg) by Hannes Grobe, licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</small>
