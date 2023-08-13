@@ -20,8 +20,8 @@ They were found in everything from radio equipment to CRT monitors.
 While tubes had a myraid of technical inferiorities and production complexities in comparison to transistors,
 they hold a special place in people's hearts when it comes to amplifying audio signals. <br>
 
-For many, its when tubes overdriven in guitar amplifiers. 
-For others, it's the output impedences and harmonic distortion of tube amps. 
+For many, its when tubes are overdriven in guitar amplifiers. 
+For others, it's the output impedances and harmonic distortion of speaker tube amps. 
 They relax the bass and smooth the treble, making for a very pleasing sound and forward midrange.
 Of course, this is all subjective, and such equipment measures terribly against solid state counterparts.
 But no one cares when the music sounds great and you want to enjoy it. Studio mastering is for another rig.
