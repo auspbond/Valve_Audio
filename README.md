@@ -9,7 +9,7 @@
 <small style="font-size: 10px;">[Photograph](https://commons.wikimedia.org/wiki/File:Tube_amplifier_@_Vacuum_Tube_Kingdom,_Tokyo_Radio_Department_Store_B1F_(2010-03-06_16.34.02).jpg) by street viewer, licensed under the [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/)</small>
 
 <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Glowing_vacuum_tubes_of_tube_audio_amplifier_Mcintosh_MC275_%28cropped%29.jpg/755px-Glowing_vacuum_tubes_of_tube_audio_amplifier_Mcintosh_MC275_%28cropped%29.jpg"/><br>
-<small style="font-size: 10px;">[Photograph](https://commons.wikimedia.org/wiki/File:Glowing_vacuum_tubes_of_Mcintosh_MC240_audio_amplifier.jpg) by Sebastian Nizan, licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</small>
+<small style="font-size: 10px;">[Photograph](https://commons.wikimedia.org/wiki/File:Glowing_vacuum_tubes_of_tube_audio_amplifier_Mcintosh_MC275_(cropped).jpg) by Sebastian Nizan, licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</small>
 
 </div>
 
